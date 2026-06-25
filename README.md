@@ -12,6 +12,22 @@ This repository contains basic Java array programs with user input.
 6. Count Odd Numbers
 7. Array Average
 8. Search Element
+9. Linear Search
+10. Binary Search
+11. Second Largest Element
+12. Second Smallest Element
+13. Duplicate Elements
+14. Missing Number
+15. Merge Arrays
+
+## Concepts Covered
+
+* Array Traversal
+* Array Searching
+* Array Manipulation
+* Missing Number Logic
+* Array Merging
 
 ## Language
+
 Java
